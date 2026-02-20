@@ -1,2 +1,2 @@
-# CS375_Mendoza
-Mostly homework for CS375
+# CS375_Mendoza 
+[Standups](https://knotfaries.github.io/CS375_Mendoza.io/Standups)
