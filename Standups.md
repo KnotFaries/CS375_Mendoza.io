@@ -1,4 +1,16 @@
 # Standups: 
+## Febuary 26th
+## Contributions
+- Interviewd Stake holder
+- Eddited requriments 
+- wrote press relase 
+## Issues 
+- Excel is evil 
+- I do not understand the use of having to write the pitch five diffrent times. 
+### Plan going forwad. 
+- Work on Softwear Design Report
+- Refine Requirments based on professor feedback 
+
 ## Febuary 19th: 
 ### Contributions
 - Scedualed reacuring meating
