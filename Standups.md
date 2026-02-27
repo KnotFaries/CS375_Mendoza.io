@@ -1,11 +1,11 @@
 # Standups: 
 ## Febuary 26th
-## Contributions
+### Contributions
 - Interviewd Stake holder
 - Eddited requriments 
 - wrote press relase 
-## Issues 
-- Excel is evil 
+### Issues 
+- Excel hates me
 - I do not understand the use of having to write the pitch five diffrent times. 
 ### Plan going forwad. 
 - Work on Softwear Design Report
