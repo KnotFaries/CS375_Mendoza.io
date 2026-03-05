@@ -4,6 +4,7 @@
 - Re did requriments along professor feedback 
     - Gave requirments matching lables to user stories 
 - Reasrch into the mathmatics of music theory
+- Downdloaded Excel + Used Excel
 
 ### Issues: 
 - Lack of direction of where to move to next for the design report
