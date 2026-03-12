@@ -1,4 +1,15 @@
 # Standups: 
+## March 12th: 
+### Contributions
+- colabriative brainstormed classes and meathods
+- orgnized meathods and classes 
+### Issues
+- had a mental breakdown 
+- can't seem to find math about timber 
+### Plans going forward
+- Research Timber
+- Research PyAudio
+- Research more math 
 ## March 5th: 
 ### Contributions:
 - Re did requriments along professor feedback 
