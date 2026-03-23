@@ -4,8 +4,7 @@
 - colabriative brainstormed classes and meathods
 - orgnized meathods and classes 
 ### Issues
-- had a mental breakdown 
-- can't seem to find math about timber 
+- Weird lack of information about how timber works in a mathmatical sense.  
 ### Plans going forward
 - Research Timber
 - Research PyAudio
