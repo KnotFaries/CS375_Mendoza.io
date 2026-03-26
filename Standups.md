@@ -1,4 +1,13 @@
 # Standups: 
+## March 26
+## Contributions: 
+- So much research. Sound has broken my brain
+- added classes and methods based on that resarch
+- drew and added the class relation charts 
+## Issues 
+- I have no clue if some of it will work, I don't know that any data types are even close to right, and I don't know how this is all going to work. 
+## Going forward
+- I guess progam what we have and scrap everything when it fails. 
 ## March 12th: 
 ### Contributions
 - colabriative brainstormed classes and meathods
