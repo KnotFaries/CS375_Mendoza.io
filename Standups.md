@@ -1,12 +1,19 @@
 # Standups: 
+## April 2nd
+### Contribitions: 
+- Expeirmited with sin wave to sound generation
+### Issues
+- Decison Pralisis 
+### Going forward: 
+- make decisons abount implementation. 
 ## March 26
-## Contributions: 
+### Contributions: 
 - So much research. Sound has broken my brain
 - added classes and methods based on that resarch
 - drew and added the class relation charts 
-## Issues 
+### Issues 
 - I have no clue if some of it will work, I don't know that any data types are even close to right, and I don't know how this is all going to work. 
-## Going forward
+### Going forward
 - I guess progam what we have and scrap everything when it fails. 
 ## March 12th: 
 ### Contributions
