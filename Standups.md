@@ -1,11 +1,21 @@
 # Standups: 
+## April 7th 
+### Contributions
+- Did wave tables
+- did 2 of the envelopes
+### Issues
+- Connecting meathods in a modular way
+- Python testing units
+### Going forward 
+- Write test
 ## April 2nd
 ### Contribitions: 
 - Expeirmited with sin wave to sound generation
 ### Issues
-- Decison Pralisis 
+- Decison Paralysis  
 ### Going forward: 
 - make decisons abount implementation. 
+
 ## March 26
 ### Contributions: 
 - So much research. Sound has broken my brain
@@ -15,6 +25,7 @@
 - I have no clue if some of it will work, I don't know that any data types are even close to right, and I don't know how this is all going to work. 
 ### Going forward
 - I guess progam what we have and scrap everything when it fails. 
+
 ## March 12th: 
 ### Contributions
 - colabriative brainstormed classes and meathods
@@ -25,6 +36,7 @@
 - Research Timber
 - Research PyAudio
 - Research more math 
+
 ## March 5th: 
 ### Contributions:
 - Re did requriments along professor feedback 
