@@ -5,9 +5,10 @@
 - did 2 of the envelopes
 ### Issues
 - Connecting meathods in a modular way
-- Python testing units
+- figuring out test (we end up with a lot of large arrarys)
 ### Going forward 
-- Write test
+- Write tests
+
 ## April 2nd
 ### Contribitions: 
 - Expeirmited with sin wave to sound generation
