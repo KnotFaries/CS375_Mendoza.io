@@ -1,4 +1,14 @@
 # Standups: 
+## April 16th 
+### Contributions
+- added test 
+### Issues
+- I think one of the test might be a numpy issue 
+- I'm struggling how to figure out who to implement multiple sin waves at once 
+### Going forward
+- figure out how to implemnt multiple sin waves 
+- more testing
+- write test documents 
 ## April 7th 
 ### Contributions
 - Did wave tables
