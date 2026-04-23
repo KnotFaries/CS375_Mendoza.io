@@ -5,9 +5,10 @@
 - Wrote up test plan (unit test and user acceptance test)
 ### Issues
 - How do we make this a thing that works independatly from python like GIS
-### 
+### Next Steps
 - Implemnt Threading
 - Continue to find edge cases for testing
+
 ## April 16th 
 ### Contributions
 - added test 
